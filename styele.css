@@ -1,0 +1,30 @@
+
+body {
+    background-color: #7594c2;
+    color: white;
+    font-family: "Baskervville SC", serif;
+    display: flex;
+   
+}
+button {
+    background-color: #190a5c;
+    color: white;
+    font-family: "Baskervville SC", serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.passo {
+    display: none;
+}
+.passo.ativo {
+    display:block;
+}
+
+main {
+        text-align: center;
+        max-width: 100%;
+    }
+    img {
+        max-width: 50%;
+    }
